@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: This repo is awesome, cite me or suffer
+authors: Me me me!
+  - family-names: Gomez
+    given-names: Diego
+title: "Practice for fair-software workshop"
+version: 0.5.0
+doi:
+date-released: 2020-09-08
